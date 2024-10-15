@@ -5,6 +5,10 @@ Tu znajdziesz slajdy z laboratorium i części wykładów, oraz materiały dodat
 
 # Kwestie organizacyjne
 
+## Ogłoszenia
+
+W dniu 23 października 2024 r. wszystkie zajęcia są *odwołane*. Zarówno laboratoria jak i wykład *nie odbywają się tego dnia*.
+
 ## Wykłady
 
 Obecność *obowiązkowa*. Wykłady są co tydzień, w środy i zaczynają się o *10:15* w sali 1.15.
