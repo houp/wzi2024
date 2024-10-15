@@ -7,7 +7,7 @@ Tu znajdziesz slajdy z laboratorium i części wykładów, oraz materiały dodat
 
 ## Ogłoszenia
 
-W dniu 23 października 2024 r. wszystkie zajęcia są *odwołane*. Zarówno laboratoria jak i wykład *nie odbywają się tego dnia*.
+* W dniu 23 października 2024 r. wszystkie zajęcia są *odwołane*. Zarówno laboratoria jak i wykład *nie odbywają się tego dnia*. Osoby, które tego dnia powinny mieć zajęcia - prośba o wysłanie zadań przez e-mail. Zostaną sprawdzone i ocenione. Feedback będzie przesłany w odpowiedzi.
 
 ## Wykłady
 
